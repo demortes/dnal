@@ -1,0 +1,36 @@
+#60700
+Name:	Beginning of test zone
+Desc:$
+   This is the test zone which will host test ports and decks. Anything found
+outside of this zone and in the hands of mortals will be punishable. 
+~
+NightDesc:$
+   It is dark. 
+~
+Flags:	10000000000000010000000000
+SecType:	Inside
+MatrixExit:	0
+[POINTS]
+	SpecIdx:	0
+	Rating:	0
+BREAK
+#60701
+Name:	Test Jacport room
+Desc:$
+   Connect to the matrix from here. 
+~
+Flags:	1000
+SecType:	Inside
+MatrixExit:	60701
+IO:	0
+Bandwidth:	0
+Access:	0
+Trace:	0
+RTG:	60701
+JackID:	0
+Address:	Demortes' Test Zone
+[POINTS]
+	SpecIdx:	0
+	Rating:	0
+BREAK
+END

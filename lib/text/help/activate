@@ -1,0 +1,13 @@
+ACTIVATE DEACTIVATE
+
+Usage: ^gACTIVATE <item>^n
+       ^gDEACTIVATE <focus>^n
+
+Activate is used to either activate a focus or personalize a
+credstick that has no current owner. Only awakened beings can
+activate foci, and the focus must be bonded to them before they
+try and activate it. No awakened beings can have more foci activated
+than they have intelligence.
+
+^WSee Also: CREDSTICKS, TRANSFER, FOCI, BOND, DEACTIVATE^n
+

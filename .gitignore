@@ -1,0 +1,29 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Compiled MUD
+awake
+
+# pfiles
+lib/etc/pfiles/*
+log/*
+
+# nohup
+nohup.out
+
+# MUD Log Files
+syslog
+
+# Crash files
+core

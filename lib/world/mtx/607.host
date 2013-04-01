@@ -1,0 +1,28 @@
+#60701
+Name:	Demortes' Test Host
+Keywords:	test
+Description:$
+This host is not for mortals. If you find it, report it. 
+~
+ShutdownStart:	A deep echoing voice announces a host shutdown.
+ShutdownStop:	A deep echoing voice announces the shutdown has been aborted.
+Parent:	60701
+Colour:	4
+Security:	10
+Difficulty:	2
+Access:	0
+AccessScramble:	0
+AccessTrapdoor:	0
+Control:	0
+ControlTrapdoor:	0
+Index:	0
+IndexTrapdoor:	0
+Files:	0
+FilesScramble:	0
+FilesTrapdoor:	0
+Slave:	0
+SlaveScramble:	0
+SlaveTrapdoor:	0
+Type:	RTG
+BREAK
+END

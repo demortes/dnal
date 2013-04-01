@@ -1,0 +1,9 @@
+LIST
+
+If you'd like to see what items a shop has for sale, take a look at the
+list. The list contains all of the items currently for sale, and all of
+the items the shop can order in for you. The price is also listed, but
+at some store this is affected by negotiation. If a time is listed in
+the availible column, this is how long it will take to order in.
+ 
+^WSee Also: SHOPS, BUY, SELL, VALUE, CHECK, RECEIVE^n

@@ -1,0 +1,7 @@
+RESTRING
+
+Usage: ^gRESTRING <item> <new description>^n
+
+This command is used to change the name of an item. Only the 
+name is changed, the look description and room description stay
+the same. You are charged 2.5 Karma per use of this command.

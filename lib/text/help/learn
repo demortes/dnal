@@ -1,0 +1,14 @@
+LEARN
+
+Usage: ^gLEARN
+       LEARN <spell> <force>^n
+
+Learn is used by magically active people to learn a spell from a
+teacher or a spell formula. A spell may be learnt at any force, up to
+and including, the force the teacher knows or the force of the formula.
+Using learn on it's own at a teacher will list the spells the teacher 
+knows and at what force rating. Learning spells from a formula may take
+some time, and needs either a shamanic lodge or a spellcasting library.
+
+^WSee Also: SPELLS, CAST, LODGE, HERMETIC LIBRARY^n
+

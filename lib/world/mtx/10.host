@@ -1,0 +1,30 @@
+#1099
+Name:	Demortes' Office
+Keywords:	office
+Description:$
+This is Demortes' Host. 
+~
+ShutdownStart:	A deep echoing voice announces a host shutdown.
+
+ShutdownStop:	A deep echoing voice announces the shutdown has been aborted.
+
+Parent:	0
+Colour:	4
+Security:	-13824
+Difficulty:	2
+Access:	10
+AccessScramble:	0
+AccessTrapdoor:	0
+Control:	10
+ControlTrapdoor:	0
+Index:	10
+IndexTrapdoor:	0
+Files:	10
+FilesScramble:	0
+FilesTrapdoor:	0
+Slave:	10
+SlaveScramble:	0
+SlaveTrapdoor:	0
+Type:	Datastore
+BREAK
+END

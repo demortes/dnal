@@ -1,0 +1,12 @@
+ELEMENTALS
+
+Usage: ^gELEMENTALS^n
+
+This command shows any elementals you have conjured and that are
+waiting for you in the metaplanes. It also lists how many services
+they currently owe you.
+The number on this list is the number you use when calling any
+elementals to your aid.
+
+^WSee Also: CONJURE^n
+
